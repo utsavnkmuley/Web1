@@ -1,0 +1,57 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+p {
+  color: navy;
+  text-indent: 10px;
+  text-transform: lowercase;
+  text-align: center;
+}
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+}
+h2 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+}
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+table {
+  text-align: center;
+}
